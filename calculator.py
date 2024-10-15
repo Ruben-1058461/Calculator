@@ -10,3 +10,5 @@ class Calculator:
 
     def quotient(self, a, b):
         return a / b
+    
+    
